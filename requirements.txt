@@ -1,0 +1,6 @@
+# Runtime
+kivy>=2.2,<3
+requests>=2.28
+
+# Development only: tools/preview.py screenshots and tools/make_assets.py
+Pillow>=9

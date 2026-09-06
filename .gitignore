@@ -1,0 +1,42 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# --- Virtualenvs ---
+kivyenv/
+.venv/
+venv/
+env/
+
+# --- Buildozer / Android build output ---
+.buildozer/
+bin/
+*.apk
+*.aab
+*.keystore
+
+# --- Generated screenshots and Kivy runtime state ---
+preview/
+.kivy/
+*.log
+
+# --- Local app data (only if it ever lands in the repo root;
+#     the real copies live in the platform user data dir) ---
+token.json
+settings.json
+thumbs/
+
+# --- Editors / OS ---
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# --- Stray downloads ---
+*.deb
+
+# --- Working notes, not for the public repo ---
+PROMPT.md
