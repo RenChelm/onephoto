@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
+# Copyright (C) 2026 renchelm
 """An offline stand-in for OneDrive, shared by the preview and self-test.
 
 It subclasses the real GraphClient and ImageCache and replaces only the two

@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
+# Copyright (C) 2026 renchelm
 """Headless functional test over the fake OneDrive.
 
 Checks the behaviour the screenshots cannot show: that photo mode really

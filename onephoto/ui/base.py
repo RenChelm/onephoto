@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
+# Copyright (C) 2026 renchelm
 """Screen base class and the bottom sheet used for contextual menus."""
 
 from kivy.animation import Animation

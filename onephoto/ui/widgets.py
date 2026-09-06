@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
+# Copyright (C) 2026 renchelm
 """Reusable dark-theme widgets.
 
 Icons are drawn with canvas primitives instead of a glyph font so they look

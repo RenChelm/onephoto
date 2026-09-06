@@ -210,3 +210,20 @@ Some details worth knowing:
 * Photo mode flattens the subtree of the folder you are in. To flatten a
   different part of the drive, open that folder (in either mode) and the grid
   follows.
+
+## License
+
+Copyright (C) 2026 renchelm.
+
+OnePhoto is free software: you can redistribute it and modify it under the
+terms of the **GNU General Public License**, either version 3 or (at your
+option) any later version. The full text is in [LICENSE](LICENSE).
+
+In short: read it, fork it, build it for yourself, send patches. If you
+distribute a modified version — including shipping one to an app store — the
+GPL requires you to release your source under the same license.
+
+The copyright holder is not bound by these terms and reserves the right to
+distribute OnePhoto under other terms, including commercially. Contributions
+are welcome, but a contributor licence agreement may be requested before a
+pull request is merged.

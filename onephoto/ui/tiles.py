@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
+# Copyright (C) 2026 renchelm
 """RecycleView cells: folder tiles, photo tiles and browser rows.
 
 All three pull their picture through the shared ImageCache, so a cell that

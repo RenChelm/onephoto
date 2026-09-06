@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
+# Copyright (C) 2026 renchelm
 """OnePhoto -- stream the pictures in your OneDrive.
 
 Entry point for both desktop (``python main.py``) and Android, where

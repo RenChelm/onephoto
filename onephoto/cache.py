@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
+# Copyright (C) 2026 renchelm
 """Disk-backed thumbnail cache with a small pool of download threads.
 
 Pictures are streamed from OneDrive on demand: a tile asks for a key, the

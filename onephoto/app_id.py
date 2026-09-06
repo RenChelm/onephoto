@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
+# Copyright (C) 2026 renchelm
 """The Microsoft application (client) ID this build signs in with.
 
 Set this once, before building the APK, and the people who install it never

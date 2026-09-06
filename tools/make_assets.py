@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
+# Copyright (C) 2026 renchelm
 """Generate the launcher icon and presplash used by buildozer.
 
     python tools/make_assets.py

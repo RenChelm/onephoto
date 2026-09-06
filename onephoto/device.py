@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
+# Copyright (C) 2026 renchelm
 """Thin wrappers over the few Android-specific things the app needs."""
 
 from kivy.utils import platform

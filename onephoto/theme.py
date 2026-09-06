@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
+# Copyright (C) 2026 renchelm
 """Dark colour scheme and a few sizing constants shared by every screen."""
 
 from kivy.metrics import dp, sp

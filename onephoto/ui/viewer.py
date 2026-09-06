@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
+# Copyright (C) 2026 renchelm
 """Full-screen picture viewer.
 
 Photo libraries can hold thousands of items, so instead of a Carousel with

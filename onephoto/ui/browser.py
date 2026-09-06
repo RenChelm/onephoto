@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
+# Copyright (C) 2026 renchelm
 """The main screen: the folder browser and the photo-first grid.
 
 Two view modes share one screen because they share one navigation stack:

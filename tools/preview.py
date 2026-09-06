@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
+# Copyright (C) 2026 renchelm
 """Run OnePhoto against a fake OneDrive, offline, and save screenshots.
 
 A development harness -- it never talks to Microsoft.

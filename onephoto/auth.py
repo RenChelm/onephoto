@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
+# Copyright (C) 2026 renchelm
 """Microsoft identity sign-in using the OAuth 2.0 device authorisation flow.
 
 The device flow is used because it needs no redirect URI, no embedded web

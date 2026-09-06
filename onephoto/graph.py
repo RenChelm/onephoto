@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
+# Copyright (C) 2026 renchelm
 """Microsoft Graph client covering the slice of OneDrive this app needs.
 
 Thumbnails and originals are fetched straight from the Graph *content*

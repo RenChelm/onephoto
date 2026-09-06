@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
+# Copyright (C) 2026 renchelm
 """Settings screen and the folder picker used to choose the startup folder."""
 
 import threading
